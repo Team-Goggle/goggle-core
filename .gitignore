@@ -1,1 +1,5 @@
 my-sgf/*
+analysis_logs/*
+sgf-winrates/*
+analysis-results/*
+.env
