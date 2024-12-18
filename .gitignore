@@ -1,2 +1,3 @@
 analysis_logs/*
 .env
+.DS_Store
