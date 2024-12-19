@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ```
 
 ### 사용 방법
+0. Analyze-sgf 설치 및 KataGo 연동
 1. my-sgf 디렉토리에 분석할 SGF 파일 업로드
 2. OpenAI API 키 설정
 3. Analyze-sgf.ipynb 노트북 실행
